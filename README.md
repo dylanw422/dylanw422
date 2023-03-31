@@ -14,7 +14,7 @@
 https://saydifferent.vercel.app/
 
 ### 🧰 Languages and Tools
-[Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge
+[Next.js]: https://img.shields.io/badge/Next.js-E4E9FF?style=for-the-badge
 [Next-url]: https://nextjs.org/
 [JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge
 [JavaScript-url]: https://javascript.com/
