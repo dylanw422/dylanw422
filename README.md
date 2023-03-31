@@ -30,7 +30,7 @@ https://saydifferent.vercel.app/
 [Express-url]:https://expressjs.com/
 [Discord.js]: https://img.shields.io/badge/Discord.js-404EED?style=for-the-badge
 [Discord-url]: https://discordjs.org/
-[Bash]: https://img.shields.io/badge/Bash-202020?style=for-the-badge
+[Bash]: https://img.shields.io/badge/Bash-505050?style=for-the-badge
 [Bash-url]: https://gnu.org/software/bash
 
 [![JavaScript][JavaScript]][Javascript-url]
