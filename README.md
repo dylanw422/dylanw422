@@ -1,4 +1,4 @@
-<a name="Dylan West 😁"></a>
+# Dylan West 😁
 
 <!-- PROJECT SHIELDS -->
 <!--
