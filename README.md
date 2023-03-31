@@ -20,15 +20,15 @@
 
 (https://saydifferent.vercel.app/)
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
-* [![JavaScript][JavaScript]][javascript-url]
-* [![CSS][CSS]][css-url]
-* [![HTML][HTML]][html-url]
-* [![React][React]][react-url]
-* [![Next.js][Next.js]][Svelte-url]
-* [![GitHub][GitHub]][github-url]
-* [![Node][Node.js]][node-url]
+* [![JavaScript][JavaScript]][Javascript-url]
+* [![CSS][CSS]][CSS-url]
+* [![HTML][HTML]][HTML-url]
+* [![React][React]][React-url]
+* [![Next.js][Next.js]][Next-url]
+* [![GitHub][GitHub]][Github-url]
+* [![Node][Node.js]][Node-url]
 * [![Express][Express]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
