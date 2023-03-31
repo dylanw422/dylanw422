@@ -8,8 +8,6 @@ I am a web developer focusing on front-end web applications. I am very passionat
 
 https://saydifferent.vercel.app/
 
----
-
 ### 🧰 Languages and Tools
 
 [Next.js]: https://img.shields.io/badge/Next.js-E4E9FF?style=for-the-badge
@@ -48,6 +46,6 @@ https://saydifferent.vercel.app/
 
 ## Contact
 
-Dylan West  - dylanwestdev@gmail.com
+##### Dylan West  - dylanwestdev@gmail.com
 
 Project Link: [https://dylanwestdev.vercel.app](https://dylanwestdev.vercel.app)
