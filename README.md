@@ -38,14 +38,14 @@ https://saydifferent.vercel.app/
 [Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge
 [Express-url]:https://expressjs.com/
 
-* [![JavaScript][JavaScript]][Javascript-url]
-* [![CSS][CSS]][CSS-url]
-* [![HTML][HTML]][HTML-url]
-* [![React][React]][React-url]
-* [![Next.js][Next.js]][Next-url]
-* [![GitHub][GitHub]][Github-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Express][Express]][Express-url]
+[![JavaScript][JavaScript]][Javascript-url]
+[![CSS][CSS]][CSS-url]
+[![HTML][HTML]][HTML-url]
+[![React][React]][React-url]
+[![Next.js][Next.js]][Next-url]
+[![GitHub][GitHub]][Github-url]
+[![Node.js][Node.js]][Node-url]
+[![Express][Express]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
