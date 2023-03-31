@@ -1,13 +1,8 @@
 # Dylan West 😁
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+**`Web Developer`**
+
+I am a web developer focusing on front-end web applications. I am very passionate about building beautiful apps that provide a great user experience. All projects on my GitHub were built from the ground up. Problem-solving is my specialty :)
 
 ### My Latest Project
 
