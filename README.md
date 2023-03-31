@@ -23,7 +23,7 @@ https://saydifferent.vercel.app/
 ### 🧰 Languages and Tools
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-ffffff?style=for-the-badge?logo=svgexport-1
+[JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-ffffff?style=for-the-badge&logo=svgexport-1
 [JavaScript-url]: https://javascript.com/
 
 * [![JavaScript][JavaScript]][Javascript-url]
