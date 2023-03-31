@@ -28,6 +28,8 @@ https://saydifferent.vercel.app/
 [Node-url]: https://nodejs.org/
 [Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge
 [Express-url]:https://expressjs.com/
+[Discord.js]: https://img.shields.io/badge/Discord.js-404EED?style=for-the-badge
+[Discord-url]: https://discordjs.org/
 
 [![JavaScript][JavaScript]][Javascript-url]
 [![CSS][CSS]][CSS-url]
@@ -37,6 +39,7 @@ https://saydifferent.vercel.app/
 [![GitHub][GitHub]][Github-url]
 [![Node.js][Node.js]][Node-url]
 [![Express][Express]][Express-url]
+[![Discord.js][Discord.js]][Discord-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
