@@ -2,13 +2,16 @@
 
 **`Web Developer`**
 
-I am a web developer focusing on front-end web applications. I am very passionate about building beautiful apps that provide a great user experience. All projects on my GitHub were built from the ground up. Problem-solving is my specialty :)
+I am a web developer focusing on front-end web applications. I am very passionate about building beautiful apps that provide a great user experience. All projects on my GitHub were built from the ground up. My GitHub is a reflection of my journey in the world of web development 🖥️
 
 ### My Latest Project
 
 https://saydifferent.vercel.app/
 
+---
+
 ### 🧰 Languages and Tools
+
 [Next.js]: https://img.shields.io/badge/Next.js-E4E9FF?style=for-the-badge
 [Next-url]: https://nextjs.org/
 [JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge
