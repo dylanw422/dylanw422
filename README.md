@@ -21,7 +21,7 @@
 https://saydifferent.vercel.app/
 
 ### 🧰 Languages and Tools
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs
+[Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge
 [Next-url]: https://nextjs.org/
 [JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge
 [JavaScript-url]: https://javascript.com/
@@ -33,6 +33,9 @@ https://saydifferent.vercel.app/
 [React-url]: https://react.dev/
 [GitHub]: https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge
 [Github-url]: https://github.com/
+[Node]: https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge
+[Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge
+
 
 * [![JavaScript][JavaScript]][Javascript-url]
 * [![CSS][CSS]][CSS-url]
