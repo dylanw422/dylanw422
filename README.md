@@ -20,18 +20,16 @@
 
 (https://saydifferent.vercel.app/)
 
-### Built With
+### Languages and Tools
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JavaScript][JavaScript]][javascript-url]
+* [![CSS][CSS]][css-url]
+* [![HTML][HTML]][html-url]
+* [![React][React]][react-url]
+* [![Next.js][Next.js]][Svelte-url]
+* [![GitHub][GitHub]][github-url]
+* [![Node][Node.js]][node-url]
+* [![Express][Express]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
