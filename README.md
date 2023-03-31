@@ -30,6 +30,9 @@ https://saydifferent.vercel.app/
 [HTML]: https://custom-icon-badges.demolab.com/badge/HTML-E54D25?style=for-the-badge
 [HTML-url]: https://html.com/
 [React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge
+[React-url]: https://react.dev/
+[GitHub]: https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge
+[Github-url]: https://github.com/
 
 * [![JavaScript][JavaScript]][Javascript-url]
 * [![CSS][CSS]][CSS-url]
