@@ -44,8 +44,8 @@ https://saydifferent.vercel.app/
 
 ---
 
-## Contact
+### Contact
 
 ##### Dylan West  - dylanwestdev@gmail.com
 
-Project Link: [https://dylanwestdev.vercel.app](https://dylanwestdev.vercel.app)
+##### Project Link: [https://dylanwestdev.vercel.app](https://dylanwestdev.vercel.app)
