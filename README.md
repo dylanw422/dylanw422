@@ -21,11 +21,11 @@
 https://saydifferent.vercel.app/
 
 ### 🧰 Languages and Tools
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs
 [Next-url]: https://nextjs.org/
-[JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge&logo=svgexport-1
+[JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge
 [JavaScript-url]: https://javascript.com/
-[CSS]: https://custom-icon-badges.demolab.com/badge/CSS-FFFFFF?style=for-the-badge&logo=svgexport-3
+[CSS]: https://custom-icon-badges.demolab.com/badge/CSS-FFFFFF?style=for-the-badge
 [CSS-url]: https://css-tricks.com/
 
 * [![JavaScript][JavaScript]][Javascript-url]
