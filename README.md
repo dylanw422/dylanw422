@@ -44,14 +44,8 @@ https://saydifferent.vercel.app/
 [![Discord.js][Discord.js]][Discord-url]
 [![Bash][Bash]][Bash-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
 ## Contact
 
 Dylan West  - dylanwestdev@gmail.com
 
 Project Link: [https://dylanwestdev.vercel.app](https://dylanwestdev.vercel.app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
