@@ -33,9 +33,10 @@ https://saydifferent.vercel.app/
 [React-url]: https://react.dev/
 [GitHub]: https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge
 [Github-url]: https://github.com/
-[Node]: https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge
+[Node.js]: https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge
+[Node-url]: https://nodejs.org/
 [Express]: https://img.shields.io/badge/Express-000000?style=for-the-badge
-
+[Express-url]:https://expressjs.com/
 
 * [![JavaScript][JavaScript]][Javascript-url]
 * [![CSS][CSS]][CSS-url]
@@ -43,7 +44,7 @@ https://saydifferent.vercel.app/
 * [![React][React]][React-url]
 * [![Next.js][Next.js]][Next-url]
 * [![GitHub][GitHub]][Github-url]
-* [![Node][Node.js]][Node-url]
+* [![Node.js][Node.js]][Node-url]
 * [![Express][Express]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
