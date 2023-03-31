@@ -44,6 +44,8 @@ https://saydifferent.vercel.app/
 [![Discord.js][Discord.js]][Discord-url]
 [![Bash][Bash]][Bash-url]
 
+---
+
 ## Contact
 
 Dylan West  - dylanwestdev@gmail.com
