@@ -25,7 +25,7 @@ https://saydifferent.vercel.app/
 [Next-url]: https://nextjs.org/
 [JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge&logo=svgexport-1
 [JavaScript-url]: https://javascript.com/
-[CSS]: https://custom-icom-badges.demolab.com/badge/CSS-FFFFFF?style=for-thebadge&logo=svgexport-3
+[CSS]: https://custom-icom-badges.demolab.com/badge/CSS-FFFFFF?style=for-the-badge&logo=svgexport-3
 
 * [![JavaScript][JavaScript]][Javascript-url]
 * [![CSS][CSS]][CSS-url]
