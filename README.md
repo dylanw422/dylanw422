@@ -25,8 +25,11 @@ https://saydifferent.vercel.app/
 [Next-url]: https://nextjs.org/
 [JavaScript]: https://custom-icon-badges.demolab.com/badge/JavaScript-F0DB4F?style=for-the-badge
 [JavaScript-url]: https://javascript.com/
-[CSS]: https://custom-icon-badges.demolab.com/badge/CSS-FFFFFF?style=for-the-badge
+[CSS]: https://custom-icon-badges.demolab.com/badge/CSS-3E8FC6?style=for-the-badge
 [CSS-url]: https://css-tricks.com/
+[HTML]: https://custom-icon-badges.demolab.com/badge/HTML-E54D25?style=for-the-badge
+[HTML-url]: https://html.com/
+[React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge
 
 * [![JavaScript][JavaScript]][Javascript-url]
 * [![CSS][CSS]][CSS-url]
