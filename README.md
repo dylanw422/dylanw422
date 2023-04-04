@@ -32,6 +32,8 @@ https://saydifferent.vercel.app/
 [Bash-url]: https://gnu.org/software/bash
 [Chakra]: https://img.shields.io/badge/Chakra_UI-008080?style=for-the-badge
 [Chakra-url]: https://chakra-ui.com/
+[Stripe]: https://img.shields.io/badge/Stripe.js-556CD6?style=for-the-badge
+[Stripe-url]: https://stripe.com/
 
 [![JavaScript][JavaScript]][Javascript-url]
 [![CSS][CSS]][CSS-url]
@@ -44,6 +46,7 @@ https://saydifferent.vercel.app/
 [![Discord.js][Discord.js]][Discord-url]
 [![Bash][Bash]][Bash-url]
 [![Chakra][Chakra]][Chakra-url]
+[![Stripe.js][Stripe]][Stripe-url]
 
 ---
 
