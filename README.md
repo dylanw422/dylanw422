@@ -34,7 +34,7 @@ https://saydifferent.vercel.app/
 [Chakra-url]: https://chakra-ui.com/
 [Stripe]: https://img.shields.io/badge/Stripe.js-556CD6?style=for-the-badge
 [Stripe-url]: https://stripe.com/
-[Auth0]: https://img.shields.io/badge/Auth0-000000?style=for-the-badge
+[Auth0]: https://img.shields.io/badge/Auth0-FF4851?style=for-the-badge
 [Auth0-url]: https://auth0.com/
 
 [![JavaScript][JavaScript]][Javascript-url]
