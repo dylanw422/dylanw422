@@ -42,7 +42,7 @@ https://saydifferent.vercel.app/
 [Prisma-url]: https://prisma.io/
 [Solidity]: https://img.shields.io/badge/Solidity-5868BA?style=for-the-badge
 [Solidity-url]: https://soliditylang.org/
-[NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge
+[NextAuth]: https://img.shields.io/badge/NextAuth-A022D9?style=for-the-badge
 [NextAuth-url]: https://next-auth.js.org/
 
 [![JavaScript][JavaScript]][Javascript-url]
