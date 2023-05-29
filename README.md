@@ -11,10 +11,6 @@ I am a web developer focusing on full-stack web applications. I am very passiona
 * MongoDB
 * Prisma
 
-### My Latest Project
-
-https://saydifferent.vercel.app/
-
 ### 🧰 Languages and Tools
 
 [Next.js]: https://img.shields.io/badge/Next.js-E4E9FF?style=for-the-badge
