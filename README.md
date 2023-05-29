@@ -40,7 +40,7 @@ https://saydifferent.vercel.app/
 [MongoDB-url]: https://mongodb.com/
 [Prisma]: https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge
 [Prisma-url]: https://prisma.io/
-[Solidity]: https://img.shields.io/badge/Solidity-KC3996B?style=for-the-badge
+[Solidity]: https://img.shields.io/badge/Solidity-5868BA?style=for-the-badge
 [Solidity-url]: https://soliditylang.org/
 
 [![JavaScript][JavaScript]][Javascript-url]
