@@ -40,6 +40,8 @@ https://saydifferent.vercel.app/
 [MongoDB-url]: https://mongodb.com/
 [Prisma]: https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge
 [Prisma-url]: https://prisma.io/
+[Solidity]: https://img.shields.io/badge/Solidity-KC3996B?style=for-the-badge
+[Solidity-url]: https://soliditylang.org/
 
 [![JavaScript][JavaScript]][Javascript-url]
 [![CSS][CSS]][CSS-url]
@@ -54,9 +56,9 @@ https://saydifferent.vercel.app/
 [![Chakra][Chakra]][Chakra-url]
 [![Stripe.js][Stripe]][Stripe-url]
 [![Auth0][Auth0]][Auth0-url]
-[![MongoDB][MongoDB]][MongoDB-url]
+[![MongoDB][MongoDB]][MongoDB-url]  
 [![Prisma][Prisma]][Prisma-url]
-
+[![Solidity][Solidity]][Solidity-url]
 
 ---
 
