@@ -5,13 +5,14 @@
 I am a web developer focusing on full-stack web applications. I am very passionate about building beautiful apps that provide a great user experience. All projects on my GitHub were built from the ground up. My GitHub is a reflection of my journey in the world of web development 🖥️
 
 ### 🔋 My Current Tech Stack
-* React
+* TypeScript
 * Next.js
 * Clerk Authentication
 * PostgreSQL
 * Drizzle ORM
-* React QUery
+* React Query
 * TailwindCSS
+* ShadCN UI
 * Stripe
 
 ### 🧰 Languages and Tools
